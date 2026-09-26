@@ -10,19 +10,23 @@ I'm a technology professional focused on <b>web applications, cloud infrastructu
 - AWS
 - Systems administration & cybersecurity
 
+### 🔨 Current Projects
+- GetGist - a simple logistics dashboard
+- TracR - a password-less chat messaging application
+
 ### 🛠️ Tools & Technologies
-Languages: Java • PHP • JavaScript • HTML • CSS
-Cloud: AWS • Azure • Google Cloud
-Infrastructure: Linux • NGINX • cPanel
-Web: WordPress • MySQL • REST APIs • Moodle
-Tools: Git • GitHub • Microsoft 365
+- Languages: Java • PHP • JavaScript • HTML • CSS
+- Cloud: AWS • Azure • Google Cloud
+- Infrastructure: Linux • NGINX • cPanel
+- Web: WordPress • MySQL • REST APIs • Moodle
+- Tools: Git • GitHub • Microsoft 365
 
 ### 📫 Reach Me
-💼 [LinkedIn](https://linkedin.com/in/alexandriasfuller)
-📧 [Email](alexfuller0@gmail.com)
-🌐 [Portfolio](https://pixel-perfect-snapshot-300.lovable.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/alexandriasfuller)
+- 📧 [Email](alexfuller0@gmail.com)
+- 🌐 [Portfolio](https://pixel-perfect-snapshot-300.lovable.app/)
 
-<b>Building. Automating. Troubleshooting. Always learning.</b>🚀
+<b>Building. Automating. Troubleshooting. Always learning.</b> 🚀
 
 
 <!--
