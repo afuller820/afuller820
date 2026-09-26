@@ -1,30 +1,20 @@
 ## Hi I'm Alex 👋
-<b>Application Engineer | Web Developer | Cloud & Systems</b>
+<b>Application Engineer | Web Developer | DevOps</b>
 
 I'm a technology professional focused on <b>web applications, cloud infrastructure, systems administration, and technical problem-solving</b>. I enjoy building reliable solutions and bridging the gap between software and infrastructure.
 
 ### 🔨Currently Working On
-- Cloud & application infrastructure
-- Java & automation projects
-- Web application development
-- AWS
-- Systems administration & cybersecurity
-
-### 🔨 Current Projects
 - GetGist - a simple logistics dashboard
 - TracR - a password-less chat messaging application
 
-### 🛠️ Tools & Technologies
-- Languages: Java • PHP • JavaScript • HTML • CSS
-- Cloud: AWS • Azure • Google Cloud
-- Infrastructure: Linux • NGINX • cPanel
-- Web: WordPress • MySQL • REST APIs • Moodle
-- Tools: Git • GitHub • Microsoft 365
+The main technology stack I use is LAMP stack, but I am exploring and practicing Java/Springboot, ReactJS, and PostgreSQL. I am also creating RestAPIs to sharpen my backend skills.
+
+On my free time, I like to roller skate (even though I am a noob) attend anime conventions like [Dreamcon](dreamconvention.com), and do outdoor stuff like fishing.
 
 ### 📫 Reach Me
-- 💼 [LinkedIn](https://linkedin.com/in/alexandriasfuller)
-- 📧 [Email](alexfuller0@gmail.com)
-- 🌐 [Portfolio](https://pixel-perfect-snapshot-300.lovable.app/)
+💼 [LinkedIn](https://linkedin.com/in/alexandriasfuller)
+📧 [Email](alexfuller0@gmail.com)
+🌐 [Portfolio](https://pixel-perfect-snapshot-300.lovable.app/)
 
 <b>Building. Automating. Troubleshooting. Always learning.</b> 🚀
 
