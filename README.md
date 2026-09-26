@@ -4,8 +4,8 @@
 I'm a technology professional focused on <b>web applications, cloud infrastructure, systems administration, and technical problem-solving</b>. I enjoy building reliable solutions and bridging the gap between software and infrastructure.
 
 ### 🔨Currently Working On
-- GetGist - a simple logistics dashboard
-- TracR - a password-less chat messaging application
+- [GetGist](https://github.com/afuller820/GetGist) - a simple logistics dashboard
+- [TracR](https://github.com/afuller820/TracR) - a password-less chat messaging application
 
 The main technology stack I use is LAMP stack, but I am exploring and practicing Java/Springboot, ReactJS, and PostgreSQL. I am also creating RestAPIs to sharpen my backend skills.
 
