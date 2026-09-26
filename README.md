@@ -7,15 +7,13 @@ I'm a technology professional focused on <b>web applications, cloud infrastructu
 - [GetGist](https://github.com/afuller820/GetGist) - a simple logistics dashboard
 - [TracR](https://github.com/afuller820/TracR) - a password-less chat messaging application
 
-The main technology stack I use is LAMP stack, but I am exploring and practicing Java/Springboot, ReactJS, and PostgreSQL. I am also creating RestAPIs to sharpen my backend skills.
+The main technology stack I use is **LAMP** stack, but I am exploring and practicing **Java/Springboot, ReactJS, and PostgreSQL**. I am also creating **RestAPIs** to sharpen my backend skills.
 
 ### Fun Fact
 - I like to roller skate (even though I am a noob)
 - Attending anime conventions like [Dreamcon](dreamconvention.com) is my favorite social interaction with society
 - I like to do outdoor stuff like fishing
 - My favorite anime is Inuyasha❤️
-
-On my free time, I like to roller skate (even though I am a noob) attend anime conventions like [Dreamcon](dreamconvention.com), and do outdoor stuff like fishing.
 
 ### 📫 Reach Me
 💼 [LinkedIn](https://linkedin.com/in/alexandriasfuller)
