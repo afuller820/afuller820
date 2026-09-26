@@ -18,9 +18,9 @@ Web: WordPress • MySQL • REST APIs • Moodle
 Tools: Git • GitHub • Microsoft 365
 
 ### 📫 Reach Me
-💼 <b>LinkedIn:</b> [https://linkedin.com/in/alexandriasfuller]
-📧 <b>Email:</b> [alexfuller0@gmail.com]
-🌐 <b>Portfolio:</b> [https://pixel-perfect-snapshot-300.lovable.app/]
+💼 [LinkedIn](https://linkedin.com/in/alexandriasfuller)
+📧 [Email](alexfuller0@gmail.com)
+🌐 [Portfolio](https://pixel-perfect-snapshot-300.lovable.app/)
 
 <b>Building. Automating. Troubleshooting. Always learning.</b>🚀
 
